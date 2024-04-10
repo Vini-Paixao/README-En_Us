@@ -2,7 +2,11 @@
 <h1 align="center">Hi 👋, my name is Marcus Vinicius</h1>
 <h3 align="center">Junior web developer</h3>
 
-<p align="justify">I am 20 years old, graduated in 2019 with a Technical degree in Systems Development from Etec Prof. Basilides de Godoy, and currently pursuing a Bachelor’s degree in Systems Analysis and Development.<br> My goal is to create creative and efficient solutions that meet the needs of users and clients, always striving for excellence in code quality. In addition, I am open to new opportunities and practices that can enhance my knowledge and experience.</p>
+<p align="justify">I am 20 years old, my goal is to create creative and efficient solutions that meet the needs of users and customers, always seeking excellence in code quality and in addition, I am open to new opportunities and practices that can improve my knowledge and experience.</p>
+
+- 🎓 Graduated in Systems Development Technician from Etec Prof. Basilides of Godoy.
+- 📚 Studying Systems Analysis and Development at Unip.
+- 💼 Looking for a professional opportunity to improve my knowledge in the area of systems development, as well as learn a lot.
 
 ###
 
@@ -17,7 +21,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" height="40" alt="woocommerce logo"  />
 </div>
