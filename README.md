@@ -62,6 +62,6 @@
   <img src="https://streak-stats.demolab.com?user=vini-paixao&locale=en&mode=daily&theme=ocean_dark&hide_border=false&border_radius=5&date_format=j/n%5B/Y%5D&order=3" height="130" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=vini-paixao&theme=darkhub&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 
-  <img src="https://raw.githubusercontent.com/vini-paixao/vini-paixao/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Vini-Paixao/README-En_Us/output/snake.svg" alt="Snake animation" />
 
 </div>
