@@ -1,6 +1,6 @@
 [Ler em Português](https://github.com/Vini-Paixao)
 <h1 align="center">Hi 👋, my name is Marcus Vinicius</h1>
-<h3 align="center">Junior web developer</h3>
+<h3 align="center">Junior Web Developer passionate about technology and development</h3>
 
 <p align="justify">I am 20 years old, my goal is to create creative and efficient solutions that meet the needs of users and customers, always seeking excellence in code quality and in addition, I am open to new opportunities and practices that can improve my knowledge and experience.</p>
 
